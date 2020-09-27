@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         findViewById<FloatingActionButton>(R.id.fab).setOnClickListener { view ->
             Snackbar.make(
                 view,
-                "Replace 犯得上发生 fdsfsdfsdyour own action",
+                "Replace 犯得上发生再次i测试 fdsfsdfsdyour own action",
                 Snackbar.LENGTH_LONG
             )
                 .setAction("Actifsdfsdfdson", null).show()
